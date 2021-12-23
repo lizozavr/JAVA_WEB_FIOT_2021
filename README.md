@@ -1,1 +1,1 @@
-# JAVA_WEB_FIOT_2021
+# JAVA_WEB_FIOT_2021 - Boiko Yelyzaveta, IT-92
